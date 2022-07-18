@@ -9,7 +9,7 @@ This project is a simple implementation of the classic Minesweeper game in C++. 
 - **User Registration and Login**: Users can register and login, with credentials stored in a MySQL database.
 - **Password Hashing**: Passwords are hashed using OpenSSL for security.
 - **Game Mechanics**: Implements the core mechanics of Minesweeper in a terminal based game, including mine placement and user movement
-z
+
 ## Prerequisites
 
 - **C++11 or higher**: Ensure you have a compiler that supports C++11.
@@ -17,7 +17,7 @@ z
 - **OpenSSL**: Used for password hashing.
 - **CMake**: Recommended for building the project.
 
-## Setup and Compilation
+## Setup and Compilation on local mac
 
 1. **Install Dependencies**:
    ```bash
